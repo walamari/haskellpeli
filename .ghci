@@ -1,0 +1,4 @@
+:set -interactive-print=Text.Pretty.Simple.pPrin:set prompt "\n%s\n\ESC[0;34mTIEA341> \ESC[m"
+:set -XOverloadedStrings
+
+:set prompt "\n%s\n\ESC[0;34mTIEA341> \ESC[m"
